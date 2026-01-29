@@ -1,6 +1,6 @@
 # Go Installation
 
-To install the Go tools, use the following command:
+To install the Go tools on Fedora, use the following command:
 
 ```bash
 sudo dnf install golang
